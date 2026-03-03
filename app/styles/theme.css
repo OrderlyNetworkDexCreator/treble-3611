@@ -17,12 +17,12 @@
 
   --oui-color-danger: 245 97 139;
   --oui-color-danger-light: 250 167 188;
-  --oui-color-danger-darken: 237 72 122;
+  --oui-color-danger-darken: 191 46 43;
   --oui-color-danger-contrast: 255 255 255;
 
   --oui-color-success: 41 233 169;
   --oui-color-success-light: 101 240 194;
-  --oui-color-success-darken: 0 161 120;
+  --oui-color-success-darken: 8 92 62;
   --oui-color-success-contrast: 255 255 255;
 
   --oui-color-warning: 255 209 70;
@@ -38,10 +38,10 @@
   --oui-color-base-3: 68 61 69;
   --oui-color-base-4: 57 52 74;
   --oui-color-base-5: 51 46 66;
-  --oui-color-base-6: 43 38 56;
+  --oui-color-base-6: 39 62 81;
   --oui-color-base-7: 36 32 47;
   --oui-color-base-8: 29 26 38;
-  --oui-color-base-9: 22 20 28;
+  --oui-color-base-9: 00 11 51;
   --oui-color-base-10: 14 13 18;
 
   --oui-color-base-foreground: 255 255 255;
@@ -66,7 +66,7 @@
   --oui-gradient-danger-end: 245 97 139;
 
   --oui-gradient-brand-start: 231 219 249;
-  --oui-gradient-brand-end: 159 107 225;
+  --oui-gradient-brand-end: 255 255 225;
   --oui-gradient-brand-stop-start: 6.62%;
   --oui-gradient-brand-stop-end: 86.5%;
   --oui-gradient-brand-angle: 17.44deg;
